@@ -7,3 +7,5 @@ I added this from a clone
 *************
 This is the end of testing .txt
 *************
+
+making my own merge error
