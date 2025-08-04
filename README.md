@@ -13,12 +13,12 @@ To make make commit follow this procedure
 ## Adding features
 Features should be developed on branches. To create and switch to a branch, use the command:
 
-...
+```
 git switch -c new_brnach_name
-...
+```
 
 To switch to an existing branch use,
 
-...
+```
 git switch existing_branch_name
-...
+```
