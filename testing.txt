@@ -1,0 +1,9 @@
+*************
+This is the start of testing.txt
+*************
+
+I added this from a clone
+
+*************
+This is the end of testing .txt
+*************
