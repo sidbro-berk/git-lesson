@@ -1,4 +1,4 @@
-#Git lesson
+# Git lesson
 
 This lesson covers basics of version control
 
@@ -14,7 +14,7 @@ To make make commit follow this procedure
 Features should be developed on branches. To create and switch to a branch, use the command:
 
 ```
-git switch -c new_brnach_name
+git switch -c new_branch_name
 ```
 
 To switch to an existing branch use,
